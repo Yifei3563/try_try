@@ -1,0 +1,14 @@
+---
+title: "try_try"
+author: "Yifei Yu"
+date: "2024-10-30"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+```
+
+## Hey Hey
+
+让我和糊糊一起玩玩！
